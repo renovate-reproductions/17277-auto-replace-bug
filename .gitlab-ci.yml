@@ -1,32 +1,32 @@
 include:
   # shared things
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/proxy.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/setup-scripts.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/a.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/s.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/d.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/f.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/g.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/h.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/j.yml'
   - project: 'renovate-bot/renovate-runner'
-    ref: v8.194.0
+    ref: v8.194.1
     file: '/shared/k.yml'
