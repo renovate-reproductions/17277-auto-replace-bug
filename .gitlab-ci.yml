@@ -1,0 +1,8 @@
+include:
+  # shared things
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/proxy.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/setup-scripts.yml'
