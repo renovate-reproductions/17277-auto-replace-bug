@@ -6,3 +6,27 @@ include:
   - project: 'renovate-bot/renovate-runner'
     ref: v8.194.0
     file: '/shared/setup-scripts.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/a.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/s.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/d.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/f.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/g.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/h.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/j.yml'
+  - project: 'renovate-bot/renovate-runner'
+    ref: v8.194.0
+    file: '/shared/k.yml'
